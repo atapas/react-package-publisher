@@ -11,8 +11,11 @@
 - Edit the `package.json` with your package name, version, author, license, dependencies, devDependencies etc. Please note, the `peerDependencies` are already set for a specific version of `react` and `react-dom`. Please feel free to change the versions suitable to your need. If you are new to the npm dependency management, please [read this](https://blog.greenroots.info/npm-dependency-handbook-for-you-ckcg56tei003ejhs16wap1t8r).
 - Create your component file and write the component code.
 - Run the `build.sh` file. Please note, use a unix based terminal(example, GitBash) to run the `build.sh` file.
+  
   ```shell
-  ./bash.sh
+
+  ./build.sh
+
   ```
 
 # What is in `build.sh` file?
