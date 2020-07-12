@@ -1,0 +1,44 @@
+{
+  "name": "react-package-publisher",
+  "version": "0.0.4",
+  "description": "Boilerplate project to publish a React component",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel --ignore dist,node_modules . --out-dir dist",
+    "build_component": "babel --ignore dist,node_modules,NotiftMe.js . --out-file index.js"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "moment": "^2.24.0",
+    "react-bootstrap": "^1.0.1",
+    "react-feather": "^2.0.8"
+  },
+  "devDependencies": {
+    "@babel/cli": "7.10.1",
+    "@babel/core": "7.8.7",
+    "@babel/plugin-proposal-class-properties": "7.8.3",
+    "@babel/preset-react": "7.10.1",
+    "babel-preset-es2015": "6.24.1",
+    "prop-types": "15.7.2",
+    "sass": "1.25.0",
+    "npm-login-noninteractive": "^0.1.4"
+  },
+  "peerDependencies": {
+    "react": "16.12.0",
+    "react-dom": "16.12.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atapas/react-package-publisher.git"
+  },
+  "keywords": [
+    "react",
+    "reactjs"
+  ],
+  "author": "Tapas Adhikary",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atapas/react-package-publisher.git/issues"
+  },
+  "homepage": "https://github.com/atapas/react-package-publisher.git#readme"
+}
