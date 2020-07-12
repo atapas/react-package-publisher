@@ -22,7 +22,7 @@ yarn build_component
 yarn build
 
 #******************************************************
-#******* Copy required files to the dist folder *******
+#******* Copy other required files to the dist folder *******
 #******************************************************
 cp ./package.json ./dist
 [ -f README.md ] && cp ./README.md ./dist
