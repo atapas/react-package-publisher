@@ -21,7 +21,7 @@ The `build.sh` file is the main file that helps in building, packaging and publi
 - Copy other required files like, `README.MD`, `*.scss` etc files to the `dist` folder.
 - Create a tarball npm for local testing.
 - Login and Publish. Here are 2 ways to login
-  - 1. Using non interactive mode => Uncomment the line starts with npm-login-noninteractive and edit the required parameter values like, <USER_NAME>, <PASSWORD> and <EMAIL>
+  - 1. Using non interactive mode => Uncomment the line starts with `npm-login-noninteractive` and edit the required parameter values like, <USER_NAME>, <PASSWORD> and <EMAIL>
   - 2. Using Intercative mode(Default) => npm login will ask for username, password and email.
   
   # Further Read
