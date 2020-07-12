@@ -2,7 +2,7 @@
 
 `react-package-publisher` is a toolkit for reactjs developers to build, test and publish a react component to the [Node Package Magaer(npm)](https://www.npmjs.com/). This project contains important commands in a script file to build, test and publish a package.
 
-> `react-show-greeting` is an example npm published using the `react-package-publisher`.  
+> [react-show-greeting](https://www.npmjs.com/package/react-show-greeting) is reactjs based package published using the `react-package-publisher`. This is an example package to greet you once you type-in your name.
 
 # Usage
 
