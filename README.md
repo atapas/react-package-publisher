@@ -1,4 +1,4 @@
-# TestComponent
+# react-package-publisher
 
-This is a Test Component and it has been used for publishing a React Test Component to npm repository.
+This is a project to help developers build, test and publish a react component to [Node Package Magaer(npm)](https://www.npmjs.com/).
 
