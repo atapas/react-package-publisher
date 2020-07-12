@@ -9,8 +9,11 @@
 - Fork or clone this repo.
 - Change the directory to, react-package-publisher
 - Edit the `package.json` with your package name, version, author, license, dependencies, devDependencies etc. Please note, the `peerDependencies` are already set for a specific version of `react` and `react-dom`. Please feel free to change the versions suitable to your need. If you are new to the npm dependency management, please [read this](https://blog.greenroots.info/npm-dependency-handbook-for-you-ckcg56tei003ejhs16wap1t8r).
-- Create your component file and the component code.
-- Save and run the `build.sh` file. Please note, use a unix based terminal(example, GitBash) to run the `build.sh` file.
+- Create your component file and write the component code.
+- Run the `build.sh` file. Please note, use a unix based terminal(example, GitBash) to run the `build.sh` file.
+  ```shell
+  ./bash.sh
+  ```
 
 # What is in `build.sh` file?
 The `build.sh` file is the main file that helps in building, packaging and publishing your react component to the npm. It helps automating many steps that are usually need to execute line by line and time consuming. It contains commands to faciliate the followings,
@@ -26,7 +29,8 @@ The `build.sh` file is the main file that helps in building, packaging and publi
   - 1. Using Intercative mode(Default) => npm login will ask for username, password and email.
   - 2. Using non interactive mode => Edit the file to comment the above option and uncomment the line starts with `npm-login-noninteractive`. Please edit the required parameter values like, <USER_NAME>, <PASSWORD> and <EMAIL>. Please install [npm-login-noninteractive](https://www.npmjs.com/package/npm-login-noninteractive) globally as depenency to use this option.
  
- # Further Read
+# Further Read
+
  A step-by-step turorial to use this toolkit is on the way, please stay tuned.
   
   
