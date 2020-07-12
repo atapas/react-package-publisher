@@ -24,8 +24,8 @@ The `build.sh` file is the main file that helps in building, packaging and publi
   - 1. Using non interactive mode => Uncomment the line starts with `npm-login-noninteractive` and edit the required parameter values like, <USER_NAME>, <PASSWORD> and <EMAIL>
   - 2. Using Intercative mode(Default) => npm login will ask for username, password and email.
   
-  # Further Read
-  For step-by-step turorial to use this tool, please read my article here.
+ # Further Read
+ For step-by-step turorial to use this tool, please read my article here.
   
   
 
