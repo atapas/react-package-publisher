@@ -1,6 +1,6 @@
 # react-package-publisher
 
-`react-package-publisher` is a toolkit to help reactjs developers to build, test and publish a react component to the [Node Package Magaer(npm)](https://www.npmjs.com/). This project contains important commands in a script file to build, test and publish a package.
+`react-package-publisher` is a toolkit for reactjs developers to build, test and publish a react component to the [Node Package Magaer(npm)](https://www.npmjs.com/). This project contains important commands in a script file to build, test and publish a package.
 
 # Usage
 
