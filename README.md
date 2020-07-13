@@ -34,7 +34,7 @@ The `build.sh` file is the main file that helps in building, packaging and publi
  
 # Further Read
 
- A step-by-step turorial to use this toolkit is on the way, please stay tuned.
+Here is the [step-by-step turorial](https://blog.greenroots.info/toolkit-for-publishing-your-react-component-to-the-node-package-managernpm-ckck8x54w00eo4as1eaoqa4ut) about how to use this toolkit.
   
   
 
