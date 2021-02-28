@@ -31,6 +31,11 @@ The `build.sh` file is the main file that helps in building, packaging and publi
 - Login and Publish. Here are 2 ways to login
   - 1. Using Intercative mode(Default) => npm login will ask for username, password and email.
   - 2. Using non interactive mode => Edit the file to comment the above option and uncomment the line starts with `npm-login-noninteractive`. Please edit the required parameter values like, <USER_NAME>, <PASSWORD> and <EMAIL>. Please install [npm-login-noninteractive](https://www.npmjs.com/package/npm-login-noninteractive) globally as a depenency to use this option.
+
+# Many Thanks to all the `Stargazers` who has supported this project with stars(⭐)
+
+[![Stargazers repo roster for @atapas/react-package-publisher](https://reporoster.com/stars/atapas/react-package-publisher)](https://github.com/atapas/react-package-publisher/stargazers)
+
  
 # Further Read
 
