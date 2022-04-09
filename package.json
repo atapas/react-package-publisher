@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "bootstrap": "^4.5.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "react-bootstrap": "^1.0.1",
     "react-feather": "^2.0.8"
   },
